@@ -1,0 +1,21 @@
+name: fundamentals
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python
+  - graphviz
+  - python-graphviz
+  - pip:
+    - numpy>=1.14
+    - scikit-learn>=0.20.0
+    - pandas>=0.22
+    - matplotlib>=2.2.3
+    - scipy>=1.0
+    - tensorflow==1.8
+    - keras==2.2.0
+    - plotly>=3.4.1
+    - ipywidgets>=7.4.2
+    - deepreplay
+    - intuitiveml
+
