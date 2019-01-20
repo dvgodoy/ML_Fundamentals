@@ -10,5 +10,5 @@ ipywidgets>=7.4.2
 deepreplay
 intuitiveml
 graphviz
-python-graphviz
+graphviz-python
 
