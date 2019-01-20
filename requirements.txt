@@ -9,3 +9,6 @@ plotly>=3.4.1
 ipywidgets>=7.4.2
 deepreplay
 intuitiveml
+graphviz
+python-graphviz
+
