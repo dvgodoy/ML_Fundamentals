@@ -4,8 +4,10 @@ channels:
   - anaconda
 dependencies:
   - python
+  - pip
   - graphviz
   - python-graphviz
+  - pygraphviz
   - numpy>=1.14
   - scikit-learn>=0.20.0
   - pandas>=0.22
